@@ -1,6 +1,9 @@
 # Sorting-Bubble-Insertion-Selection-
 
-Aim : 
+Aim : Program to arrange/sort elementsin order using sorting techniques
+          (a) Selection Sort
+          (b) Insertion Sort
+          (c) Bubble Sort
 
 Description : 
         Sorting — arranging items in order — is the most fundamental task in computation. 
